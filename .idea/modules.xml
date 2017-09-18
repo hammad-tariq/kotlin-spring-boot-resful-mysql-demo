@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/canalpic.iml" filepath="$PROJECT_DIR$/.idea/modules/canalpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/canalpic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/canalpic_main.iml" group="canalpic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/canalpic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/canalpic_test.iml" group="canalpic" />
+    </modules>
+  </component>
+</project>
