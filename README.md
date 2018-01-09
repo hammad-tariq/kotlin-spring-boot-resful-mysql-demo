@@ -1,5 +1,5 @@
 # kotlin-spring-boot-resful-mysql-demo
-Kotlin restful web services using spring boot and database setup example code.
+Kotlin Restful Web Services using Spring Boot and Database Setup Example Code.
 
 Tutorial can be found on this link
-http://codingaffairs.blogspot.com/2017/09/kotlin-restful-backend-with-spring-boot.html
+http://developine.com/start-developing-restful-web-services-in-kotlin-using-mysql-and-spring-boot/
